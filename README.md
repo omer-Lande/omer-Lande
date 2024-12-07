@@ -20,13 +20,14 @@ Hi there! I'm Omer, a passionate, about to be, Software Engineer with a strong f
 - **Learning**: Kotlin
 
 ### Frameworks & Tools:
-- React, Node.js, Spring Boot, Flask, Unity
+- React, Node.js, Spring Boot, Flask, Unity, Android
 - MongoDB, PostgreSQL, Firebase, MySQL
 - Docker, Git, Puppeteer, Vite
 
 ### Areas of Expertise:
 - Full-Stack Web Development
 - Microservices Architecture
+- App development
 - Game Development and AI
 - Data Scraping and Automation
 
