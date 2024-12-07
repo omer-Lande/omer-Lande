@@ -26,6 +26,7 @@ Hi there! I'm Omer, a passionate, about to be, Software Engineer with a strong f
 
 ### Areas of Expertise:
 - Full-Stack Web Development
+- Microservices Architecture
 - Game Development and AI
 - Data Scraping and Automation
 
