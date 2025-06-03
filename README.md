@@ -6,7 +6,7 @@ Hi there! I'm Omer, a passionate, about to be, Software Engineer with a strong f
 
 ## About Me
 
-- 🎓 I'm currently finishing my degree in Software Engineering.
+- 🎓 I'm currently working in Log-On as Frontend Developer.
 - 🌟 I thrive on solving challenging problems and creating impactful solutions.
 - 🌍 I love learning about new technologies, meeting diverse people, and exchanging ideas to grow both personally and professionally.
 - 🐾 Fun fact: My dream was to own a dog farm someday. 🐕
@@ -16,8 +16,8 @@ Hi there! I'm Omer, a passionate, about to be, Software Engineer with a strong f
 ## 🔧 Technologies & Skills
 
 ### Programming Languages:
-- **Proficient**: JavaScript, Java, C++, Python, C#
-- **Learning**: Next.JS
+- **Proficient**: JavaScript, Java, C++, Python, Next.JS
+- **Learning**: C#
 
 ### Frameworks & Tools:
 - React, Node.js, Spring Boot, Flask, Unity, Android
