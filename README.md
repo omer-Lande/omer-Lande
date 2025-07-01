@@ -16,11 +16,11 @@ Hi there! I'm Omer, a passionate, about to be, Software Engineer with a strong f
 ## 🔧 Technologies & Skills
 
 ### Programming Languages:
-- **Proficient**: JavaScript, Java, C++, Python, Next.JS
+- **Proficient**: JavaScript, Java, C++, Python
 - **Learning**: C#
 
 ### Frameworks & Tools:
-- React, Node.js, Spring Boot, Flask, Unity, Android
+- React , Next.JS, Node.js, Spring Boot, Flask, Unity, Android
 - MongoDB, PostgreSQL, Firebase, MySQL
 - Docker, Git, Puppeteer, Vite
 
